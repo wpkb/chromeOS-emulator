@@ -1,0 +1,6 @@
+{
+  "name": "ChromeOS Emulator",
+  "description": "Android 7.0+ 端末で動作する ChromeOS (Chromium OS) デスクトップ環境エミュレーター。Aura ウィンドウマネージャー、マルチウィンドウ、Chrome ブラウザ、Crostini Linux ターミナル、ファイルマネージャー、シェルフ、クイック設定を搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
